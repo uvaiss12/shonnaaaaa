@@ -1,2 +1,5 @@
 #include<iostream>
-intmain
+using namespace std;
+int main()
+{
+  
